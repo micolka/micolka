@@ -111,12 +111,12 @@
 
 ### 📞 Connect with me:
 
-<a href="https://vk.com/id5289681">
+<a href="https://www.linkedin.com/in/nikolay-nikityuk/">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vk_Logo.svg/1024px-Vk_Logo.svg.png" 
           alt="HTML.png"
           width="30">
 </a>
-<a href="https://web.telegram.org/#/im?p=g455389579">
+<a href="https://t.me/micolka">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" 
           alt="HTML.png"
           width="30">
