@@ -63,7 +63,7 @@
           width="50"">
 </a>
 <a href="https://github.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
+<img src="https://www.muckibu.de/wp-content/uploads/2018/10/Octocat.png" 
           alt="GitHub.png"
           width="50">
 </a>
