@@ -51,6 +51,12 @@
           width="60">
 </a>
 
+<a href="https://vitejs.dev/">
+<img src="https://vitejs.dev/logo.svg" 
+          alt="vite.svg"
+          width="60">
+</a>
+
 ## 🔨 Tools:
 <a href="https://www.jetbrains.com/ru-ru/webstorm/">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png" 
