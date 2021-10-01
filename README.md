@@ -67,8 +67,6 @@
           alt="GitHub.png"
           width="50">
 </a>
-![image](https://user-images.githubusercontent.com/55094494/135611393-a32fbbf6-c724-4519-ab9a-8d9eb171a304.png)
-
 <a href="https://git-scm.com/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" 
           alt="git.png"
