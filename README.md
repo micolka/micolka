@@ -112,7 +112,7 @@
 ### 📞 Connect with me:
 
 <a href="https://www.linkedin.com/in/nikolay-nikityuk/">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vk_Logo.svg/1024px-Vk_Logo.svg.png" 
+     <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" 
           alt="HTML.png"
           width="30">
 </a>
