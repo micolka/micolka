@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Nikolay.
-# I'am a front-end developer and currently looking for a job
+# I'am a front-end developer
 
 ## 🏆 Stack:
 
